@@ -7,3 +7,6 @@ OpenMMLab-Eiviento-【AI实战营第二期】第3次作业提交16班
 
 
 特征图可视化结果：![特征图可视化](https://github.com/Eiviento/OpenMMLab-Eiviento--AI-3-16-/assets/115340566/ce0139b1-d7d8-4102-a382-408e22e4616b)
+
+
+推理结果：![balloon](https://github.com/Eiviento/OpenMMLab-Eiviento--AI-3-16-/assets/115340566/6342053a-27c4-43ad-9c2c-8da0296c95ec)
